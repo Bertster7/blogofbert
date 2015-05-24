@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Blog of Bert</title>
+        <description>Blog of Bert - Bertie</description>
+        <link>http://username.github.io</link>
+        <link>http://username.github.io</link>
+        <lastBuildDate>2015-05-25T00:05:28+01:00</lastBuildDate>
+        <pubDate>2015-05-25T00:05:28+01:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Hello World</title>
+                <description>
+</description>
+                <link>http://username.github.io/2015/05/22/hello-world</link>
+                <guid>http://username.github.io/2015/05/22/hello-world</guid>
+                <pubDate>2015-05-22T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Hdgdgsd</title>
+                <description>
+</description>
+                <link>http://username.github.io/2015/05/22/hdgdgsd</link>
+                <guid>http://username.github.io/2015/05/22/hdgdgsd</guid>
+                <pubDate>2015-05-22T00:00:00+01:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>

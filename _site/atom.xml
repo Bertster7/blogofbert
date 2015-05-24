@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Blog of Bert</title>
+ <link href="http://username.github.io/" rel="self"/>
+ <link href="http://username.github.io"/>
+ <updated>2015-05-25T00:05:28+01:00</updated>
+ <id>http://username.github.io</id>
+ <author>
+   <name>Bertie</name>
+   <email>bertie@blogofbert.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello World</title>
+   <link href="http://username.github.io/2015/05/22/hello-world"/>
+   <updated>2015-05-22T00:00:00+01:00</updated>
+   <id>http://username.github.io/2015/05/22/hello-world</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hdgdgsd</title>
+   <link href="http://username.github.io/2015/05/22/hdgdgsd"/>
+   <updated>2015-05-22T00:00:00+01:00</updated>
+   <id>http://username.github.io/2015/05/22/hdgdgsd</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ 
+</feed>
